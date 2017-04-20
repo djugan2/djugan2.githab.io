@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+.div {
+  border: 2px solid black;
+  height: 200px;
+  width: 25%;
+  float: left;
+  border-radius: 5px;
+}
+.div1 {
+  background-color: #ddd;
+}
